@@ -1,0 +1,16 @@
+
+.bg-body {
+	background: #bdb9b9 ! important;
+}
+
+.bg-card {
+	background: #fff ! important;
+}
+
+.logout-btn-show {
+	display: block;
+}
+
+.logout-btn-none {
+	display: none;
+}
