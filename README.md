@@ -8,16 +8,16 @@
   
   php artisan serve
 
-# Owner credential to check data
-
-  Email : soundhars.developer@gmail.com
-  Password : abc@123
-
-# Sample Customer credential to check data
+# Recruiter credential to check data
 
   Email : soundhar994@gmail.com
   Password : abc@123
 
+# Job seeker credential to check data
+
+  Email : soundharspike@gmail.com
+  Password : abc@123
+
 # DB
 	
-  Attached the schema in project as name of bikeserviceapplication.sql
+  Attached the schema in project as name of job_portal_db.sql
